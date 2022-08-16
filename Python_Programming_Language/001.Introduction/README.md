@@ -1,6 +1,6 @@
 # [HackerRank Python Solutions - Introduction](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction "Python - Introduction")
 
-### [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true "Say "Hello, World!" With Python")
+### [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true "Say 'Hello, World!' With Python")
 
 ```python
 print("Hello,World!")
