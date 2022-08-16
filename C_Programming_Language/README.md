@@ -1,2 +1,1 @@
-# HackerRank_Solutions
-Solutions of HackerRank C Programming Language.
+# [HackerRank.com C Programming Language Solutions](https://www.hackerrank.com/domains/c "HackerRank.com C Programming Language Solutions")
